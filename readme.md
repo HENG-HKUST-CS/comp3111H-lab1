@@ -1,3 +1,3 @@
 Billy the Kid
 75349821
-/Lab1/screenshot.png
+![Screen Shot](/Lab1/screenshot.png)
